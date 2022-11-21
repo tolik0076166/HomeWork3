@@ -1,0 +1,49 @@
+h1{
+    color: black;
+}
+
+#selector{
+    color: red;
+}
+
+.selector{
+    color: blue;
+}
+
+.selector.two-selector{
+    color: yellow;
+}
+
+.selector-by-attachment p {
+    color: purple;
+}
+
+
+ul > li{
+    color: grey;
+}
+
+
+[role=selector]{
+    color: green;
+}
+
+
+li a {
+    color: brown;
+}
+
+
+li:last-of-type {
+    color: magenta;
+}
+
+
+
+*{
+    color: pink;
+}
+
+
+
+
